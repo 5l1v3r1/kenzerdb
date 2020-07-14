@@ -1,0 +1,5 @@
+http://thanos.aips-internal.com:80
+https://grafana-staging.aips-internal.com:443
+https://prometheus-staging.aips-internal.com:443
+https://thanos-staging.aips-internal.com:443
+https://thanos.aips-internal.com:443
