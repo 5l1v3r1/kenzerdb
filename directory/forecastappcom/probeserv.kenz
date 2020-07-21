@@ -1,0 +1,16 @@
+http://api.forecastapp.com:80
+http://api.forecastapp.com:8080
+http://email.forecastapp.com:80
+http://email.forecastapp.com:8080
+http://email.mailing.forecastapp.com:80
+http://forecastapp.com:80
+http://forecastapp.com:8080
+http://support.forecastapp.com:80
+http://www.forecastapp.com:80
+http://www.forecastapp.com:8080
+https://api.forecastapp.com:443
+https://email.forecastapp.com:443
+https://email.mailing.forecastapp.com:443
+https://forecastapp.com:443
+https://support.forecastapp.com:443
+https://www.forecastapp.com:443

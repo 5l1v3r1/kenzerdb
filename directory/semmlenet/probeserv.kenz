@@ -1,0 +1,10 @@
+http://lgtm-com.pentesting.semmle.net:80
+http://lgtm-staging.semmle.net:80
+http://semmle.net:80
+http://www.lgtm-staging.semmle.net:80
+http://www.semmle.net:80
+https://lgtm-com.pentesting.semmle.net:443
+https://lgtm-staging.semmle.net:443
+https://semmle.net:443
+https://www.lgtm-staging.semmle.net:443
+https://www.semmle.net:443

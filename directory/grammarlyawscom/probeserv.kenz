@@ -1,0 +1,16 @@
+http://prod-institution-ui.acquisition.grammarlyaws.com:80
+http://subscription.subscription.grammarlyaws.com:80
+http://update-officeaddin.sandbox.grammarlyaws.com:80
+https://alb-okta-test-qa.platform.grammarlyaws.com:443
+https://capi.core-prod.grammarlyaws.com:443
+https://datareport.subscription.grammarlyaws.com:443
+https://dox.core-prod.grammarlyaws.com:443
+https://gnar-writr.data.grammarlyaws.com:443
+https://narnia.it.grammarlyaws.com:443
+https://prod-data.acquisition.grammarlyaws.com:443
+https://prod-institution-ui.acquisition.grammarlyaws.com:443
+https://prod-institution.acquisition.grammarlyaws.com:443
+https://prod-irbis.acquisition.grammarlyaws.com:443
+https://prod-redirect.acquisition.grammarlyaws.com:443
+https://subscription.subscription.grammarlyaws.com:443
+https://update-officeaddin.sandbox.grammarlyaws.com:443

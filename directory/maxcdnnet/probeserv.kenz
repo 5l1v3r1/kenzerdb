@@ -1,0 +1,15 @@
+http://cacti.maxcdn.net:80
+http://cobbler.maxcdn.net:80
+http://flex02-tlv09.maxcdn.net:80
+http://nagios-vir05.maxcdn.net:80
+http://nagios.maxcdn.net:80
+http://vpn-ams.maxcdn.net:443
+http://vpn-sl-vir05.maxcdn.net:80
+http://web01.maxcdn.net:80
+http://yum.maxcdn.net:80
+https://cacti.maxcdn.net:443
+https://cobbler.maxcdn.net:443
+https://flex02-tlv09.maxcdn.net:443
+https://vpn-sl-vir05.maxcdn.net:443
+https://web01.maxcdn.net:443
+https://yum.maxcdn.net:443

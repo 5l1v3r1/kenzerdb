@@ -1,0 +1,17 @@
+http://api.segment.io:80
+http://cdn.segment.io:80
+http://cio.segment.io:80
+http://cio.segment.io:8080
+http://consul.segment.io:80
+http://metadata.segment.io:80
+http://nsq.segment.io:80
+http://segment.io:80
+http://www.segment.io:80
+https://api.segment.io:443
+https://cdn.segment.io:443
+https://cio.segment.io:443
+https://consul.segment.io:443
+https://metadata.segment.io:443
+https://nsq.segment.io:443
+https://segment.io:443
+https://www.segment.io:443

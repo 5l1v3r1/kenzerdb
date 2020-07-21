@@ -1,0 +1,11 @@
+http://billing.yourdelivery.de:443
+http://cdn.yourdelivery.de:443
+http://config.yourdelivery.de:80
+http://image.yourdelivery.de:80
+http://image.yourdelivery.de:8080
+http://landing.yourdelivery.de:80
+http://track.yourdelivery.de:443
+http://yourdelivery.de:443
+https://config.yourdelivery.de:443
+https://image.yourdelivery.de:443
+https://landing.yourdelivery.de:443

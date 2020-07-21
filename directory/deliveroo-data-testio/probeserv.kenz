@@ -1,0 +1,8 @@
+http://restaurant-data-api.deliveroo-data-test.io:8000
+https://api.canoe-staging-k8s.deliveroo-data-test.io:443
+https://integration.deliveroo-data-test.io:443
+https://jenkins-canoe-staging.deliveroo-data-test.io:443
+https://kibana-canoe-staging.deliveroo-data-test.io:443
+https://order-status.deliveroo-data-test.io:443
+https://restaurant-data-api.deliveroo-data-test.io:443
+https://traffic.deliveroo-data-test.io:443
