@@ -1,7 +1,0 @@
-do
-done
-f=`basename $k .txt | sed -r 's/\.//g'`
-for i in `ls`
-k=`ls $i`
-mkdir subd/$f
-mv $k subd/$f/chaos.log
