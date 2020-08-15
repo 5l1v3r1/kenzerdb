@@ -1,8 +1,8 @@
 alerta.wpesvc.net
 alertmanager.wpesvc.net
+api3.wpesvc.net
 api-gateway-staging.wpesvc.net
 api-gateway.wpesvc.net
-api3.wpesvc.net
 au-api-dev.wpesvc.net
 au-api-staging.wpesvc.net
 au-api.wpesvc.net
@@ -22,6 +22,7 @@ https://api-gateway.wpesvc.net
 insightvm.wpesvc.net
 interview.wpesvc.net
 landmark.wpesvc.net
+metrics-platform-staging.wpesvc.net
 metrics-platform.wpesvc.net
 nessus-scan.wpesvc.net
 overdrive-lb.wpesvc.net
@@ -39,7 +40,7 @@ vault-dev.wpesvc.net
 vault.wpesvc.net
 webpagetest-marketing.wpesvc.net
 west.alertmanager.wpesvc.net
-wp-product-info.wpesvc.net
 wpesvc.net
+wp-product-info.wpesvc.net
 www.google.com-open-source-cloud-computing-services-distribution.wpesvc.net
 www.google.com.wpesvc.net

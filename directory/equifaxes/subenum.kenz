@@ -2,6 +2,7 @@
 bbva-uat.equifax.es
 bureauasoc.equifax.es
 cliente.equifax.es
+com.equifax.es
 consumidor.equifax.es
 dicodi.equifax.es
 dns.equifax.es
@@ -22,12 +23,16 @@ soluciones.equifax.es
 spi.equifax.es
 ssh.equifax.es
 ssh443.equifax.es
+t1.equifax.es
 t2.equifax.es
 test.bignet.equifax.es
 test.equifax.es
+test1.equifax.es
+testtls.equifax.es
 tienda.equifax.es
 transfer.equifax.es
 tuempresa.equifax.es
+uat.equifax.es
 uat.icaas.equifax.es
 uat.icsaas.equifax.es
 uat.secureauth.equifax.es
@@ -44,6 +49,7 @@ www.esecure.equifax.es
 www.expansiondirecto.equifax.es
 www.geed.equifax.es
 www.google.com,www.facebook.com,www.twitter.com,www.equifax.es
+www.google.com.proxy.equifax.es
 www.infocheck.equifax.es
 www.riskcalc.equifax.es
 www.slac.equifax.es

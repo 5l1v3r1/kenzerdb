@@ -1,5 +1,4 @@
 http://www.zaproxy.org:80
 http://www.zaproxy.org:8080
 http://zaproxy.org:80
-https://www.zaproxy.org:443
-https://zaproxy.org:443
+http://zaproxy.org:8080

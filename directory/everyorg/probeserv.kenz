@@ -13,12 +13,3 @@ http://staging.every.org:80
 http://staging.every.org:8080
 http://www.every.org:80
 http://www.every.org:8080
-https://analytics.every.org:443
-https://blog.every.org:443
-https://every.org:443
-https://feedback.every.org:443
-https://login.every.org:443
-https://login.staging.every.org:443
-https://metabase.every.org:443
-https://staging.every.org:443
-https://www.every.org:443

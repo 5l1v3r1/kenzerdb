@@ -1882,6 +1882,10 @@
 209.12.152.8x8.com
 238-130.a.8x8.com
 238-150.3.8x8.com
+238-199.8x8.com
+238-23.8x8.com
+238-36.8x8.com
+238-40.8x8.com
 252-213.1.8x8.com
 253574.a.8x8.com
 257396.a.8x8.com
@@ -2697,6 +2701,7 @@ a248.g.8x8.com
 a69.g.8x8.com
 aaa.8x8.com
 abbeylanguagetravel.1.8x8.com
+aboveground-viruses.8x8.com
 aby.8x8.com
 academy.8x8.com
 acc.8x8.com
@@ -2726,6 +2731,7 @@ aeuwa03.msteams.8x8.com
 agentcrm.8x8.com
 agents.8x8.com
 ager.8x8.com
+agile-public.es.8x8.com
 agile-staging.8x8.com
 agile.8x8.com
 ai-int.8x8.com
@@ -2735,13 +2741,16 @@ alert.8x8.com
 alpha.0.8x8.com
 amazon-testing.ai.8x8.com
 amazon.8x8.com
+amir-antivirus.8x8.com
 analytics-au.8x8.com
 analytics-demo.8x8.com
 analytics-eu.8x8.com
 analytics-qa.8x8.com
 analytics.8x8.com
+antivirus-38b65.8x8.com
 ap1.8x8.com
 api-acceptance.8x8.com
+api-access.8x8.com
 api-dc6.5.8x8.com
 api-dc6.contactnow.8x8.com
 api-dev.8x8.com
@@ -2785,9 +2794,11 @@ autoconfig.c.8x8.com
 autodiscover.8x8.com
 autodiscover.c.8x8.com
 avatars-cdn.us-east.chalet.8x8.com
+avg-antivirus-free.8x8.com
 avwilliams.1.8x8.com
 awebrtc.8x8.com
 awww.8x8.com
+b-test.8x8.com
 b.8x8.com
 b.cceng.8x8.com
 b.i.8x8.com
@@ -2797,6 +2808,7 @@ baueb01.msteams.8x8.com
 bb.8x8.com
 bbx.8x8.com
 betazoid.8x8.com
+beuwb01.msteams.8x8.com
 bg.4.8x8.com
 bigip01-eq.8x8.com
 bigip02-eq.8x8.com
@@ -2904,6 +2916,7 @@ contactapp.8x8.com
 contactcenter.8x8.com
 contactnow.8x8.com
 corona.chalet.8x8.com
+coronaliu.8x8.com
 cosmopolitan-com.c.8x8.com
 cpanel.3.8x8.com
 cpanel.a.8x8.com
@@ -2917,6 +2930,7 @@ cq1.8x8.com
 crm-test.8x8.com
 crm.8x8.com
 crm.test.8x8.com
+crmuat.8x8.com
 crmweb2-l3.8x8.com
 csp01.8x8.com
 ctx.8x8.com
@@ -2943,11 +2957,13 @@ dc2.8x8.com
 dead.bb.8x8.com
 debug.8x8.com
 default.es.8x8.com
+deployment.8x8.com
 dev.1.8x8.com
 dev.8x8.com
 dev.us-east-1.ai.8x8.com
 dev.www.8x8.com
 devdnn.8x8.com
+developer.8x8.com
 dhcp.8x8.com
 diagnostic.8x8.com
 dingodude.3.8x8.com
@@ -2976,6 +2992,7 @@ eks-int.8x8.com
 el.4.8x8.com
 email3.8x8.com
 embed.br.8x8.com
+en.8x8.com
 en1.vccmail.8x8.com
 enko.3.8x8.com
 eolib.7.8x8.com
@@ -3016,8 +3033,10 @@ files.us-east.chalet.8x8.com
 fireresponse.1.8x8.com
 firstcomm.8x8.com
 fll.8x8.com
+foodvaccine.8x8.com
 foreman-eq.8x8.com
 forums.8x8.com
+francovitale.8x8.com
 frl.c.8x8.com
 frys.8x8.com
 ftp.8x8.com
@@ -3032,6 +3051,7 @@ fw.8x8.com
 g.cceng.8x8.com
 g.p.8x8.com
 g4-h-926085.c.8x8.com
+gdocs.8x8.com
 get.8x8.com
 get8x8.8x8.com
 getpaid-uat.8x8.com
@@ -3042,6 +3062,7 @@ git.8x8.com
 gitlab.h.8x8.com
 gitprime.es.8x8.com
 glb.8x8.com
+glms.8x8.com
 gloabl-staging.chalet.8x8.com
 global-corona.chalet.8x8.com
 global-stage.chalet.8x8.com
@@ -3072,6 +3093,7 @@ harmony-uk2.8x8.com
 harmony-us2.8x8.com
 hawaiix.8x8.com
 hccc.8x8.com
+hello.8x8.com
 help.8x8.com
 hgc.8x8.com
 hgo.8x8.com
@@ -3111,12 +3133,15 @@ infis.8x8.com
 info.8x8.com
 info.cuepalace.nlnfo.8x8.com
 info.hs.8x8.com
+infomercial.8x8.com
 information.8x8.com
 ing.8x8.com
 insight.8x8.com
 internet.8x8.com
+intheknow.8x8.com
 intranet.8x8.com
 inventory.8x8.com
+investor.8x8.com
 investors.8x8.com
 investors.i.8x8.com
 io.8x8.com
@@ -3136,6 +3161,9 @@ ip-10-205-5-138.acceptance.cloud.8x8.com
 ip-10-205-5-210.acceptance.cloud.8x8.com
 ip-10-205-5-22.acceptance.cloud.8x8.com
 ip-10-205-8-196.acceptance.cloud.8x8.com
+ip-10-211-19-140.prod.cloud.8x8.com
+ip-10-211-45-74.prod.cloud.8x8.com
+ip-10-211-70-251.prod.cloud.8x8.com
 ipad.8x8.com
 iphone.4.8x8.com
 iphone.8x8.com
@@ -3177,6 +3205,7 @@ lep.a.8x8.com
 link.8x8.com
 link1.8x8.com
 link2.8x8.com
+links.8x8.com
 linkshare.8x8.com
 live.j.8x8.com
 liveops.8x8.com
@@ -3194,6 +3223,7 @@ m.8x8.com
 m.e.8x8.com
 m2.8x8.com
 m360-i1.p.8x8.com
+maelstrom.8x8.com
 magmus.c.8x8.com
 mail-gw.8x8.com
 mail.1.8x8.com
@@ -3262,10 +3292,12 @@ ns10.8x8.com
 ns101.8x8.com
 ns102.2.8x8.com
 ns102.8x8.com
+ns11.8x8.com
 ns2.8x8.com
 ns2.contactnow.8x8.com
 ns25.8x8.com
 ns4.8x8.com
+ns9.8x8.com
 o.o.8x8.com
 o1.default.8x8.com
 o2.default.8x8.com
@@ -3284,6 +3316,7 @@ officedepot.1.8x8.com
 officedepot.8x8.com
 officemax.8x8.com
 on1.vccmail.8x8.com
+ops-tools.8x8.com
 ops.8x8.com
 opsproxy.i.8x8.com
 or.8x8.com
@@ -3299,6 +3332,8 @@ oxcia.p.8x8.com
 p.i.8x8.com
 packet8.8x8.com
 pancfg.8x8.com
+panda-free-antivirus.en.8x8.com
+pandemicnetwork.8x8.com
 parceiros-1.5.8x8.com
 partner.8x8.com
 partners.8x8.com
@@ -3326,6 +3361,7 @@ plex.2.8x8.com
 plusbusiness.1.8x8.com
 poczta.e.8x8.com
 polycomconf.vo.dev.8x8.com
+pool.8x8.com
 pop.8x8.com
 portal.e.8x8.com
 positiveeye.d.8x8.com
@@ -3411,6 +3447,7 @@ rtx.8x8.com
 ru.3.8x8.com
 ru.o.8x8.com
 rump2007.cr.8x8.com
+rundeck.8x8.com
 s.a.8x8.com
 s.c.8x8.com
 s.d.8x8.com
@@ -3424,6 +3461,7 @@ salesforce.8x8.com
 salesorder.8x8.com
 sandbox.1.8x8.com
 sap.4.8x8.com
+sap.8x8.com
 sba.8x8.com
 screenreaderenv.p.8x8.com
 sd.8x8.com
@@ -3435,6 +3473,7 @@ serviceproviders.8x8.com
 sftp.8x8.com
 sg300.8x8.com
 shelter-logic-h-926085.c.8x8.com
+shop-dev.8x8.com
 shop-stg.8x8.com
 shop.8x8.com
 shopathome.8x8.com
@@ -3493,7 +3532,9 @@ sip253.cceng.8x8.com
 sip254.cceng.8x8.com
 sites.a.8x8.com
 sk1fw1-ge-0-2.8x8.com
+skincovershop.8x8.com
 smp.8x8.com
+smpp.8x8.com
 sms.8x8.com
 smtp.8x8.com
 smtp.e.8x8.com
@@ -3565,12 +3606,14 @@ sy1.vccmail.8x8.com
 sy1fw1-ge-0-2.8x8.com
 sy1fw1-ge-2-0.8x8.com
 sy3-ase-001.p.8x8.com
+synnex.8x8.com
 sysopsgit.8x8.com
 systema-h-926085.c.8x8.com
 t.ai-int.8x8.com
 t1.c.8x8.com
 tableau.8x8.com
 taging.8x8.com
+tap.8x8.com
 tarif-angebote.de.8x8.com
 tdhi.9.8x8.com
 teamtraining.8x8.com
@@ -3598,6 +3641,7 @@ tigerdirect.8x8.com
 tls.msteams.8x8.com
 tm.8x8.com
 tmone.8x8.com
+tolakviruss.8x8.com
 tools.8x8.com
 tr.8x8.com
 training.8x8.com
@@ -3634,6 +3678,7 @@ uc8-eq.2.8x8.com
 uc8-eq.8x8.com
 uc9-eq.8x8.com
 ucau.8x8.com
+ucentric.8x8.com
 ucmed01-dc6.8x8.com
 ucmed01-eq.8x8.com
 ucmed02-eq.8x8.com
@@ -3865,6 +3910,7 @@ vcloud00.8x8.com
 vdashboard.8x8.com
 vdi.8x8.com
 vennli.p.8x8.com
+verify.8x8.com
 vgateway.8x8.com
 video.8x8.com
 videos.8x8.com
@@ -3880,6 +3926,8 @@ virtualoffice.8x8.com
 virtualoffice2.8x8.com
 virtualoffices.8x8.com
 virtualofficeuk.8x8.com
+virus-docs.8x8.com
+virusandbacteriascanner.8x8.com
 vm-dc6.8x8.com
 vm-eq.8x8.com
 vm-test.8x8.com
@@ -3979,6 +4027,7 @@ wiki-3.0.8x8.com
 williamsdesignerhomes.1.8x8.com
 wn.8x8.com
 woiptes.8x8.com
+work.8x8.com
 workers1.n.8x8.com
 wpbrainbox.4.8x8.com
 ws.8x8.com
@@ -3994,6 +4043,7 @@ www-old.8x8.com
 www-staging-old.8x8.com
 www-staging.8x8.co.uk.8x8.com
 www-staging.8x8.com
+www-static.8x8.com
 www-uk.8x8.com
 www.1.8x8.com
 www.17.8x8.com
@@ -4032,6 +4082,7 @@ www.security.8x8.com
 www.securiyy.8x8.com
 www.shop.8x8.com
 www.test.8x8.com
+www.ucentric.8x8.com
 www.videos.8x8.com
 www.virtual.8x8.com
 www.womensuits.comwww.8x8.com

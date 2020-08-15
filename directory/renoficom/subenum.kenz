@@ -11,10 +11,12 @@ estimator.renofi.com
 frontend-assets.renofi.com
 gateway.renofi.com
 homeshow.renofi.com
+legacy.renofi.com
 lender.renofi.com
 lenders.renofi.com
 login.renofi.com
 love.renofi.com
+mailer.renofi.com
 o1.ptr3681.renofi.com
 o2.ap.renofi.com
 rabbitmq.renofi.com
@@ -24,4 +26,6 @@ secure.renofi.com
 status.renofi.com
 storehouse.renofi.com
 webhooks.renofi.com
+www.google.com,www.facebook.com,www.twitter.com,www.renofi.com
+www.google.com-cloud-platform-machine-learning-engine.renofi.com
 www.renofi.com

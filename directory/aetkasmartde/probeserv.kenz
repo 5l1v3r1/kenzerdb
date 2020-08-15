@@ -1,11 +1,10 @@
 http://aetkasmart.de:80
+http://e2e1.permissions.aetkasmart.de:80
+http://e2e2.permissions.aetkasmart.de:80
 http://ifa.aetkasmart.de:80
 http://login.aetkasmart.de:80
 http://mein.aetkasmart.de:80
 http://permissions.aetkasmart.de:80
 http://www.aetkasmart.de:80
-https://aetkasmart.de:443
-https://login.aetkasmart.de:443
-https://mein.aetkasmart.de:443
-https://permissions.aetkasmart.de:443
-https://www.aetkasmart.de:443
+http://www.zufriedenheit.aetkasmart.de:80
+http://zufriedenheit.aetkasmart.de:80
